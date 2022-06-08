@@ -290,3 +290,57 @@
 
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/collectAllFood
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameChallenge_collectallfood.jpg
+
+
+## Game Challenge - Countdown and Challenge
+* name: Game Challenge - Countdown and Challenge
+* description: Game Challenge - Countdown and Challenge
+
+
+### addTimer
+
+* name: Add a Countdown Timer
+* type: tutorial
+* description: The player is required to complete the game or another goal before the timer runs out.
+* tags: easy, timer
+* next: randomDoublingEnemies
+
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/addTimer
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/game-mechanics_timer.png
+
+### randomDoublingEnemies
+
+* name: Collect all Food before Progressing
+* type: tutorial
+* description: This pattern adds enemies to our game that appear in random places. The number of enemies on the screen also increases as the game progresses.
+* tags: medium, enemies, challenge
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/randomDoublingEnemies
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameChallenge_doublingenemies.jpg
+
+## Game Challenge - Power Ups
+* name: Game Challenge - Power Ups
+* description: Game Challenge - Power Ups
+
+
+### powerUpJump
+
+* name: Power Up Higher Jump
+* type: tutorial
+* description: The player is able to jump higher if they collect a token that acts as a way of powering up their abilities.
+* tags: easy, powerup
+* next: powerUpSpeed
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/powerUpJump
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameChallenge_poweruphigherjump.jpg
+
+### powerUpSpeed
+
+* name: Power Up Player Speed
+* type: tutorial
+* description: The player is able to move faster if they collect a token that acts as a way of powering up their abilities.
+* tags: medium, powerup
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/powerUpSpeed
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameChallenge_powerupspeed.jpg
