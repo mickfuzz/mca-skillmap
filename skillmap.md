@@ -59,7 +59,7 @@
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/mca-skillmap/main/images/patterns/gamemechanic_extralives_800.png
 
 
-### Make Player Immune from Enemies
+### makePlayerImmune
 
 * name: Make Player Immune from Enemies
 * type: tutorial
