@@ -196,3 +196,97 @@
 
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/animatePlayer
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/game_polish_animate.jpg
+
+
+
+## Game Space - On Levels
+* name: Game Space - On Levels
+* description: Game Space - On Levels
+
+### changeLevelDesign
+
+* name: Change Level Design
+* type: tutorial
+* description: You may want to change the location of the platforms or add more food to collect or change the location of your end sprite block.
+* tags: easy, levels
+* next: addLevels
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/changeLevelDesign
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameSpace_leveldesign.jpg
+
+### addLevels
+
+* name: Add More Levels
+* type: tutorial
+* description: The player reaches the goal of the first Level of the platformer and then progresses to the next level (and beyond)
+* tags: medium, levels
+* next: addLevels
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/addLevels
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_more_levels.jpg
+
+### keyAndDoor
+
+* name: Key and Door
+* type: tutorial
+* description: The player needs to collect a key before they can exit the level of the platformer game.
+* tags: medium, levels
+
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/keyAndDoor
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameSpace_keysDoors.jpg
+
+
+
+## Game Space - Changing Space
+* name: Game Space - Changing Space
+* description: Game Space - Changing Space
+
+### changeLevelDesign
+
+* name: Change Background Image
+* type: tutorial
+* description: This pattern gives you the ability to add a drawn image as the background of your game.
+* tags: easy, levels
+* next: changeLevelShape
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/changeBackgroundImage
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameSpace_background_image.jpg
+
+### Change Game Size
+
+* name: Change Game Size
+* type: tutorial
+* description: You may want to make your level longer or you may want to change the shape of one or more levels completely so they have to jump up instead of travelling from left to right.
+* tags: easy, levels
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/changeLevelShape
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameSpace_gameSize.jpg
+
+
+## Game Challenge - Food Stuff
+* name: Game Challenge - Food Stuff
+* description: Game Challenge - Food Stuff
+
+
+### Change Game Size
+
+* name: collectPoints
+* type: tutorial
+* description: The player is able to increase their score by collecting food or stars or other tokens.
+* tags: easy, levels
+* next: collectAllFood
+
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/collectPoints
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameChallenge_gainpoints.jpg
+
+### collectAllFood
+
+* name: Collect all Food before Progressing
+* type: tutorial
+* description: The player must collect all items of food before progressing.
+* tags: medium, levels
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/collectAllFood
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameChallenge_collectallfood.jpg
