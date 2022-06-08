@@ -2,10 +2,10 @@
 * name: MakeCode Platformer - Choose your own Adventure
 * description: Make a platformer game by adding these game design patterns to a Starting Template.
 
-## Row One
-* name: row one
-* description: description row one
-* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+## Game Mechanic - Hazards and Lives
+* name: Game Mechanic - Hazards and Lives
+* description: Game Mechanic - Hazards and Lives
+* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/learn-to-make-a-platformer.pdf
 
 ### addHazard
 
@@ -29,16 +29,65 @@
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/mca-skillmap/main/images/patterns/gamemechanic_extralives_800.png
 
 
-## Row Two
-* name: row two
-* description: description row two
+## Game Mechanic - Moving Enemies
+* name: Game Mechanic - Moving Enemies Name
+* description: description Moving Enemies
 
 ### movingEnemiesAnimated
 
 * name: Animate an Enemy
 * type: tutorial
 * description: In this pattern a static enemy is animated to make some limited movements around its home position, for example bobbing or bouncing.
-* tags: medium
+* tags: easy, enemies
+* next: movingEnemiesPatrolling
 
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/movingEnemiesAnimated
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_animatedenemies.jpg
+
+### movingEnemiesPatrolling
+
+* name: Moving Enemies - Patrolling
+* type: tutorial
+* description: In this pattern the enemy moves around in a particular area in a repeating pattern. This movement is called patrolling. The enemy does not try to seek out the player.
+* tags: medium, enemies
+* next: movingEnemiesFollowing
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/movingEnemiesPatrolling
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_patrollingenemies.jpg
+
+### movingEnemiesFollowing
+
+* name: Following Enemies
+* type: tutorial
+* description: Here one or more enemies try to chase the player by following them.
+* tags: easy, enemies
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/movingEnemiesFollowing
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_patrollingenemies.jpg
+
+
+## Game Mechanic - Jumping Patterns
+* name: Game Mechanic - Jumping Patterns
+* description: description Jumping Patterns
+
+
+### doubleJump
+
+* name: Player can Double Jump
+* type: tutorial
+* description: The player is able to jump in the middle of another jump but only once. Pressing the jump button a third time with have no effect.
+* tags: easy, jumping
+* next: jumpOnEnemies
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/doubleJump
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_doublejump.jpg
+
+### jumpOnEnemies
+
+* name: Jump on Enemies to Zap them
+* type: tutorial
+* description: In many games players shoot enemies. In some platformers they get rid of them by jumping on them instead. If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears.
+* tags: medium, jumping
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/jumpOnEnemies
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_jumping.jpg
