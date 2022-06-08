@@ -1,21 +1,37 @@
-# sample
-* name: Game Maker Guide
-* description: Level up your game making skills by completing the tutorials in this guide.
+# MakeCode Platformer
+* name: MakeCode Platformer - Choose your own Adventure
+* description: Make a platformer game by adding these game design patterns to a Starting Template.
 
-## interface
-* name: Learn to use MakeCode Arcade
-* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+## Add Enemies
+* name: Learn to add Enemies to your Game
+* description: This will teach you how to add enemies to your game
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+* layout: manual
 
-### interface-activity1
+### static-enemies
 
-* name: Learn to use MakeCode Arcade
+* name: Add Static Enemies
 * type: tutorial
-* description: Intro to our tutorial cards
+* description: Learn to add a simple static enemy or hazard to your game
 * tags: easy
+* next: animated-enemies
+* position: 0 0
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/images/patterns/gameMechanics_staticenemies.jpg
+
+
+### animated-enemies
+
+* name: Animate a Static Enemy
+* type: tutorial
+* description: In this pattern a static enemy is animated to make some limited movements around its home position, for example bobbing or bouncing.
+* tags: easy
+* position: 1 0
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity2
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_animatedenemies.jpg
+
 
 ## space
 * name: Design a Space Explorer
