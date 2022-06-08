@@ -17,8 +17,8 @@
 * next: animated-enemies
 * position: 0 0
 
-* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
-* imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/images/patterns/gameMechanics_staticenemies.jpg
+* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/static-enemies
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/mca-skillmap/main/images/patterns/gameMechanics_staticenemies.jpg
 
 
 ### animated-enemies
