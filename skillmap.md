@@ -14,10 +14,9 @@
 * type: tutorial
 * description: Learn to add a simple static enemy or hazard to your game
 * tags: easy
-* next: animated-enemies
-* position: 0 0
+* next: movingEnemiesAnimated
 
-* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/static-enemies
+* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/addHazard
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/mca-skillmap/main/images/patterns/gameMechanics_staticenemies.jpg
 
 
@@ -26,10 +25,9 @@
 * name: Animate a Static Enemy
 * type: tutorial
 * description: In this pattern a static enemy is animated to make some limited movements around its home position, for example bobbing or bouncing.
-* tags: easy
-* position: 1 0
+* tags: medium
 
-* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity2
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/movingEnemiesAnimated
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_animatedenemies.jpg
 
 
