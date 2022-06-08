@@ -2,6 +2,35 @@
 * name: MakeCode Platformer - Choose your own Adventure
 * description: Make a platformer game by adding these game design patterns to a Starting Template.
 
+## space
+* name: Design a Space Explorer
+* description: Let's explore the depths of space! We'll design a vessel for space travel, add some enemies, and populate the universe with planets.
+* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/design-a-space-explorer.pdf
+
+### space-activity1
+
+* name: Ship Design
+* type: tutorial
+* description: Draw and code a spaceship!
+* tags: easy
+* next: space-activity2
+
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity1.png
+
+
+### space-activity2
+
+* name: Projectiles
+* type: tutorial
+* description: Customize your ship with projectiles and effects.
+* tags: easy, projectiles, kinds
+* next: space-activity3
+
+* url: https://github.com/mickfuzz/mca-skillmap/tutorials/space/activity2
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity2.png
+
+
 ## Game Mechanic - Hazards and Lives
 * name: Game Mechanic - Hazards and Lives
 * description: Game Mechanic - Hazards and Lives
@@ -30,7 +59,7 @@
 
 
 ## Game Mechanic - Moving Enemies
-* name: Game Mechanic - Moving Enemies Name
+* name: Game Mechanic - Moving Enemies
 * description: description Moving Enemies
 
 ### movingEnemiesAnimated
