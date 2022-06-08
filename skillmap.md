@@ -25,7 +25,7 @@
 * type: tutorial
 * description: Customize your ship with projectiles and effects.
 * tags: easy, projectiles, kinds
-* next: space-activity3
+
 
 * url: https://github.com/mickfuzz/mca-skillmap/tutorials/space/activity2
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity2.png
@@ -53,9 +53,21 @@
 * type: tutorial
 * description: The player starts the game with a number of the lives When the Player is zapped, or runs out of health the play restarts but with one less life.
 * tags: easy
+* next: makePlayerImmune
 
 * url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/addLives
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/mca-skillmap/main/images/patterns/gamemechanic_extralives_800.png
+
+
+### Make Player Immune from Enemies
+
+* name: Make Player Immune from Enemies
+* type: tutorial
+* description: The player is not able to be zapped by enemies.
+* tags: difficult
+
+* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/makePlayerImmune
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/mca-skillmap/main/images/patterns/game_polish_makeplayerimmune.jpg
 
 
 ## Game Mechanic - Moving Enemies
@@ -147,7 +159,6 @@
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/game_polish_soundtrack.jpg
 
 
-
 ## Game Polish - Add Messages
 * name: Game Polish - Add Messages
 * description: Game Polish - Add Messages
@@ -161,3 +172,27 @@
 
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/addMessages
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/game_polish_storywithmessages.jpg
+
+## Game Polish - Graphics
+* name: Game Polish - Graphics
+* description: Game Polish - Graphics
+
+### simpleGraphicalEffects
+
+* name: Simple Graphical Effects
+* type: tutorial
+* description: A common pattern is to add graphical effects when things happen in the game. For example the look of a player may change when they get zapped as a way of showing their death, or you can animate food when it is collected, or enemies when they get zapped.
+* next: animatePlayer
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/simpleGraphicalEffects
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/game_polish_graphical_effect.jpg
+
+### animatePlayer
+
+* name: Animate Player
+* type: tutorial
+* description: The player is animated using different ‘frames’.
+* tags: medium, sound
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/animatePlayer
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/game_polish_animate.jpg
