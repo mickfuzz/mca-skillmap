@@ -2,37 +2,26 @@
 
 ### @explicitHints true
 
-## Add a Static Enemy @unplugged
+## Add Player Lives
 
-[Click here for a step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addHazard) - Also known as a Hazard, a Static Enemy will kill or damage the health of the player if they touch it. These are often placed in tricky spots which the player is likely to bump into when jumping or trying to collect rewards.
+[Click here to follow a step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addLives) when you have completed adding this Game Pattern then click on **Next**.
 
-<img src="https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_staticenemies.jpg" width=350>
+![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gamemechanic_extralives_800.png)
 
-[To continue follow step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addHazard)
+* **Name:** Add Player Lives
 
-## Add a Static Enemy - In a nutshell
+* **Description:** The player starts the game with a number of the lives When the Player is zapped, or runs out of health the play restarts but with one less life.  
 
-<img src="https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy2.png" width=250>
+* **Need for Pattern:** Having player lives is a way of reducing the frustration of a challenging game. For example players normally restart from the level they got lost their life on rather than going back to the very beginning.
 
-In the guide you will learn to create a hazard when ever there is a red square on your level tilemap. It's a similar pattern to adding food.   
+* **Related Game Patterns:** Before adding this pattern you'll need something that can zap you. So add a pattern like
+**[add Static Enemy](addStaticEnemy)** or a moving enemy.  
 
-[![Step by step guide](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_staticenemies.jpg)](https://mickfuzz.github.io/makecode-platformer-101/addStaticEnemy)
+* **Coding Concepts involved:** [Variables](learningDimensions#variables)
 
-[Click here to follow a step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addStaticEnemy) when you have completed adding this Game Pattern then click on **Next**.
+* **Links to other Computing Patterns:** [Systems Dynamics](learningDimensions#systems-dynamics),[Change Listener](learningDimensions#change-listener
 
-![mechanics add a static enemy](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_staticenemies.jpg)
-
-* **Name:** Add a Static Enemy
-
-* **Description:** Also known as a Hazard, a Static Enemy will kill or damage the health of the player if they touch it. These are often placed in tricky spots which the player is likely to bump into when jumping or trying to collect rewards.  
-
-* **Need for Pattern:** Having hazards increases the challenge of a level, you can place hazards in a way that requires the player to time their jumps well and really control their movement.
-
-* **Related Game Patterns:** Add Moving Enemies [related], Jump on Enemies [related]
-
-* **Coding Concepts involved:** [Loops](learningDimensions#loops), [Events](learningDimensions#events)
-
-* **Links to other Computing Patterns:** , [Change Listener](learningDimensions#change-listener), [Input Event](learningDimensions#input-event)  
+[Click here to follow a step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addLives) when you have completed adding this Game Pattern then click on **Next**.
 
 ## Congratulations - What Next
 
