@@ -120,3 +120,44 @@
 
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/jumpOnEnemies
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_jumping.jpg
+
+## Game Polish - Sound
+* name: Game Polish - Sound
+* description: Game Polish - Sound
+
+### soundEffects
+
+* name: Add Sound Effects
+* type: tutorial
+* description: A common pattern is to add sound effects when things happen in the game. For example sounds may play when a player gets zapped, or when food when it is collected, or when enemies are zapped.
+* tags: easy, sound
+* next: soundTrack
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/soundEffects
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/game_polish_new_sounds.jpg
+
+### soundTrack
+
+* name: Add Sound Track
+* type: tutorial
+* description: Having a sound track is a way of increasing the excitement of the game and communicating the feeling of the game to the players.
+* tags: medium, sound
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/soundTrack
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/game_polish_soundtrack.jpg
+
+
+
+## Game Polish - Add Messages
+* name: Game Polish - Add Messages
+* description: Game Polish - Add Messages
+
+### addMessages
+
+* name: Add Written Messages
+* type: tutorial
+* description: The game maker can display instructions and messages to the player at the start of the game. You can also add messages when something happens in the game. For example giving new levels a name.
+* tags: easy, sound
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/3m-platformer/addMessages
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/game_polish_storywithmessages.jpg
