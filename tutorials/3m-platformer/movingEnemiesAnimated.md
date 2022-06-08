@@ -28,4 +28,4 @@ when you have completed adding this Game Pattern then click on **Next**.
 
 🎈 Congratulations 🎈
 
-If you have successfully added this pattern to your game then click **Done** and you can move on to add another Game Patter of your choice.
+If you have successfully added this pattern to your game then click **Done** and you can move on to add another Game Pattern of your choice.
