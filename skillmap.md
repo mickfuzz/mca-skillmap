@@ -13,6 +13,7 @@
 * type: tutorial
 * description: Learn to add a simple static hazard or enemy to your game
 * tags: easy
+* next: addLives
 
 * url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/addHazard
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/mca-skillmap/main/images/patterns/gameMechanics_staticenemies.jpg

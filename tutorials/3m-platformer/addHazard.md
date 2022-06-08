@@ -2,29 +2,26 @@
 
 ### @explicitHints true
 
-## Add Player Lives
+## Add a Static Enemy @unplugged
 
-[Click here to follow a step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addLives) when you have completed adding this Game Pattern then click on **Next**.
+[Click here for a step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addHazard) - Also known as a Hazard, a Static Enemy will kill or damage the health of the player if they touch it. These are often placed in tricky spots which the player is likely to bump into when jumping or trying to collect rewards.
 
-![mechanics space polish and systems](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gamemechanic_extralives_800.png)
+<img src="https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_staticenemies.jpg" width=350>
 
-* **Name:** Add Player Lives
+[To continue follow step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addHazard)
 
-* **Description:** The player starts the game with a number of the lives When the Player is zapped, or runs out of health the play restarts but with one less life.  
+## Add a Static Enemy - In a nutshell
 
-* **Need for Pattern:** Having player lives is a way of reducing the frustration of a challenging game. For example players normally restart from the level they got lost their life on rather than going back to the very beginning.
+<img src="https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy2.png" width=250>
 
-* **Related Game Patterns:** Before adding this pattern you'll need something that can zap you. So add a pattern like
-**[add Static Enemy](addStaticEnemy)** or a moving enemy.  
+In the guide you will learn to create a hazard when ever there is a red square on your level tilemap. It's a similar pattern to adding food.   
 
-* **Coding Concepts involved:** [Variables](learningDimensions#variables)
+[![Step by step guide](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_staticenemies.jpg)](https://mickfuzz.github.io/makecode-platformer-101/addHazard)
 
-* **Links to other Computing Patterns:** [Systems Dynamics](learningDimensions#systems-dynamics),[Change Listener](learningDimensions#change-listener
-
-[Click here to follow a step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addLives) when you have completed adding this Game Pattern then click on **Next**.
+[Click here to follow a step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addHazard) when you have completed adding this Game Pattern then click on **Next**.
 
 ## Congratulations - What Next
 
 🎈 Congratulations 🎈
 
-If you have successfully added this pattern to your game then click **Done** and you can move on to add another Game Pattern of your choice.
+If you have successfully added this pattern to your game then click **Done** and you can move on to add another Game Patter of your choice.
