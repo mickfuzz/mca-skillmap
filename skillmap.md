@@ -55,7 +55,7 @@
 * tags: easy
 * next: makePlayerImmune
 
-* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/addLives
+* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/addHazard
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/mca-skillmap/main/images/patterns/gamemechanic_extralives_800.png
 
 
