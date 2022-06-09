@@ -44,7 +44,7 @@
 * tags: easy
 * next: addLives
 
-* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/activity2
+* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/activity1
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/mca-skillmap/main/images/patterns/gameMechanics_staticenemies.jpg
 
 ### addLives
@@ -66,7 +66,7 @@
 * description: The player is not able to be zapped by enemies.
 * tags: difficult
 
-* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/makePlayerImmune
+* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/activity2
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/mca-skillmap/main/images/patterns/game_polish_makeplayerimmune.jpg
 
 
