@@ -44,7 +44,7 @@
 * tags: easy
 * next: addLives
 
-* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/activity1
+* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/addHazard
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/mca-skillmap/main/images/patterns/gameMechanics_staticenemies.jpg
 
 ### addLives
@@ -55,7 +55,7 @@
 * tags: easy
 * next: makePlayerImmune
 
-* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/addHazard
+* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/addLives
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/mca-skillmap/main/images/patterns/gamemechanic_extralives_800.png
 
 
@@ -66,7 +66,7 @@
 * description: The player is not able to be zapped by enemies.
 * tags: difficult
 
-* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/activity2
+* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/makePlayerImmune
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/mca-skillmap/main/images/patterns/game_polish_makeplayerimmune.jpg
 
 
