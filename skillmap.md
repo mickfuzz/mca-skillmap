@@ -44,7 +44,7 @@
 * tags: easy
 * next: addLives
 
-* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/addHazard
+* url: https://github.com/mickfuzz/mca-skillmap/tutorials/3m-platformer/activity2
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/mca-skillmap/main/images/patterns/gameMechanics_staticenemies.jpg
 
 ### addLives
